@@ -1,0 +1,33 @@
+ : 2020/04/10_1 : https://cdn.tibame.com/course/753/videos/6d124f52-dc1c-4952-ba5b-07e57b6a1baf_GMT20200410-011328_104CLASS-T_1440x900.mp4
+
+2020/04/11_1 : https://cdn.tibame.com/course/753/videos/cae9a434-067d-4f86-a8df-c6aa6efb75b8_GMT20200411-010613_104CLASS-T_1440x900.mp4
+
+2020/04/12_1 : https://cdn.tibame.com/course/753/videos/7ce1c335-2627-420d-96d1-2b110b7cb3a3_GMT20200412-011434_104CLASS-T_1440x900.mp4
+
+2020/04/17_1 : https://cdn.tibame.com/course/753/videos/40070ed4-646f-4f86-9418-c35122602afc_GMT20200417-054331_104CLASS-T_1440x900.mp4
+
+2020/04/18_1 : https://cdn.tibame.com/course/753/videos/07c790f0-f394-43f0-8e8c-dcf41af2f256_GMT20200418-011034_104CLASS-T_1440x900.mp4
+
+2020/04/19_1 : https://cdn.tibame.com/course/753/videos/342bca55-80a2-42d6-9ca6-1ecaac2bcc06_GMT20200419-010810_104CLASS-T_1440x900.mp4
+
+2020/04/19_2 : https://cdn.tibame.com/course/753/videos/54e669e0-bbd6-4c0d-885a-607c48ec813b_GMT20200419-051623_104CLASS-T_1440x900.mp4
+
+2020/04/24_1 : https://cdn.tibame.com/course/753/videos/cfa97ee4-3ae7-4889-ac95-a5f022712609_GMT20200424-010458_104CLASS-T_1440x900.mp4
+
+2020/04/25_1 : https://cdn.tibame.com/course/753/videos/f39464f6-9035-4c90-ab2b-401539521777_GMT20200425-013312_104CLASS-T_1440x900.mp4
+
+2020/04/25_2 : https://cdn.tibame.com/course/753/videos/a18b7653-9d5f-47f9-9632-ce6521939a86_GMT20200425-052512_104CLASS-T_1440x900.mp4
+
+2020/04/26_1 : https://cdn.tibame.com/course/753/videos/fb365d0e-801d-4d41-b818-cb8f7267b8a1_GMT20200426-011151_104CLASS-T_1440x900.mp4
+
+2020/04/26_2 : https://cdn.tibame.com/course/753/videos/05a9f661-8590-4629-8bd7-024162c8ecb5_GMT20200426-052528_104CLASS-T_1440x900.mp4
+
+2020/05/08_1 : https://cdn.tibame.com/course/753/videos/648456f6-2b15-4ba1-8f41-70151c3b04b7_GMT20200508-011035_104CLASS-T_1440x900.mp4
+
+2020/05/08_2 : https://cdn.tibame.com/course/753/videos/7984699c-3867-46f9-b599-d48c1646b794_GMT20200508-052345_104CLASS-T_1440x900.mp4
+
+2020/05/09_1 : https://cdn.tibame.com/course/753/videos/d3d95095-d8c0-4d17-857a-9fee46cf6194_GMT20200509-010955_104CLASS-T_1440x900.mp4
+
+2020/05/09_2 : https://cdn.tibame.com/course/753/videos/d549682b-1dfc-40cb-be52-d57e40001c87_GMT20200509-052025_104CLASS-T_1440x900.mp4
+
+2020/05/10_1 : https://cdn.tibame.com/course/753/videos/1ca79a8a-ba24-4792-a69b-5cbb6858604c_GMT20200510-011002_104CLASS-T_1440x900.mp4
